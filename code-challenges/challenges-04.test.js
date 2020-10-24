@@ -1,4 +1,4 @@
-  
+
 'use strict';
 
 // to learn more about the cheerio library and what it is doing, look at their documentation: https://www.npmjs.com/package/cheerio
